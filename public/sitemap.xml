@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/</loc>
+    <lastmod>2019-08-19T12:34:20+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/great-books-ive-read/</loc>
+    <lastmod>2019-08-19T12:34:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/</loc>
+    <lastmod>2019-08-19T12:34:20+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/my-favourite-podcasts/</loc>
+    <lastmod>2019-08-19T12:34:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/projects-im-working-on/</loc>
+    <lastmod>2019-08-19T12:34:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

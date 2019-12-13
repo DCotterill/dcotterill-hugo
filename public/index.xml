@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://laughing-liskov-db83d0.netlify.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2019 12:34:20 +1000</lastBuildDate>
+    
+	<atom:link href="https://laughing-liskov-db83d0.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great Books I&#39;ve Read</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/great-books-ive-read/</link>
+      <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/great-books-ive-read/</guid>
+      <description>Sourced from Goodreads</description>
+    </item>
+    
+    <item>
+      <title>My Favourite Podcasts</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/my-favourite-podcasts/</link>
+      <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/my-favourite-podcasts/</guid>
+      <description>I spend a fair amount of time listening to podcasts. I find I can steadily run and take in the information at the same time, so on heavy running weeks, my long runs can get through a few hours of podcast material.</description>
+    </item>
+    
+    <item>
+      <title>Projects I&#39;m Working On</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/projects-im-working-on/</link>
+      <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/learning-and-projects/projects-im-working-on/</guid>
+      <description>I just returned from Washington, DC to attend the Academy of Nutrition and Dietetics’ Food &amp;amp; Nutrition Conference &amp;amp; Expo (FNCE). It was a particularly good conference, full of excellent presentations on some of today’s hottest nutrition topics, including debates on intermittent fasting vs.</description>
+    </item>
+    
+  </channel>
+</rss>
