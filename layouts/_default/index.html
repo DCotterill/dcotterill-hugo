@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>-->
+    <title>{{.Site.Params.title}}</title>
+
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+    <div class="wrapper">
+        <nav class="main-nav">
+            {{ $currentPage := . }}
+            <ul>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+
+        <section class="main-content">
+            <section class="top-container">
+                <header class="showcase">
+                    <h2>{{.Site.Params.subtitle}}</h2>
+                    <h1>{{.Site.Params.title}}</h1>
+                </header>
+            </section>
+
+            <section class="main-topics">
+                <a href="/learning-and-projects">
+                    <div class="main-topic">
+                        <img src="/img/learn-projects.jpg" alt="" class="topic-image">
+                        <h3 class="topic-title">Projects and Learning</h3>
+                        <ul>
+                            <li>My favourite podcasts</li>
+                            <li>Great books I've read recently</li>
+                            <li>Books I'm reading now</li>
+                            <li>Projects I'm working on</li>
+                            <li>Ideas I'd like to try</li>
+                        </ul>
+                    </div>
+                </a>
+
+                <a href="/learning-and-projects">
+                    <div class="main-topic">
+                        <img src="/img/kid-donkey-kong.jpg" alt="" class="topic-image">
+                        <h3 class="topic-title">Kids and Coding</h3>
+                        <ul>
+                            <li>Starting a Code Club</li>
+                            <li>Encouraging girls with coding</li>
+                            <li>Using Scratch for maths</li>
+                        </ul>
+                    </div>
+                </a>
+
+                <a href="/learning-and-projects">
+                    <div class="main-topic">
+                        <img src="/img/finance-paper.jpg" alt="" class="topic-image">
+                        <h3 class="topic-title">Finance and FIRE</h3>
+                        <ul>
+                            <li>My first take on FIRE</li>
+                            <li>Basic investing</li>
+                        </ul>
+                    </div>
+                </a>
+            </section>
+        </section>
+
+        <footer>
+            <p>{{.Site.Params.footer}}</p>
+        </footer>
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>

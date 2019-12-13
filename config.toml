@@ -1,0 +1,45 @@
+baseURL = "https://laughing-liskov-db83d0.netlify.com/"
+languageCode = "en-us"
+summarylength = 40
+disqusShortname = "DCotterill"
+
+[params]
+    title = "Darren Cotterill"
+    subtitle = "My Current Passions"
+
+#    maintagline = "My cur"
+
+
+    footer = "DCotterill C2019"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "home"
+        name="Home"
+        url="/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "why?"
+        name="Why?"
+        url="/why"
+        weight=40
+
+    [[menu.main]]
+        identifier = "blog"
+        name="Blog"
+        url="/blog"
+        weight=40
+
+    [[menu.main]]
+        identifier = "about"
+        name="About-Me"
+        url="/about"
+        weight=60
+
+    [[menu.main]]
+        identifier = "contact"
+        name="Contact"
+        url="/contact"
+        weight=60
