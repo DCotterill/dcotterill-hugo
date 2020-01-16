@@ -20,7 +20,6 @@ One of my favourites on the topic of FIRE (Financial Indpendence Retire Early). 
 I've listened to them all, but a couple that stand out to listen to if you want to get hooked are:
 
 - [JLCollins - The Simple Path to Wealth](https://www.madfientist.com/jl-collins-interview/)
-
 - [PopUp Business School – The Right Way to Start a Business](https://www.madfientist.com/popup-business-school-interview/)
 
 
@@ -43,5 +42,4 @@ I've only listened to about 5 episodes so far, but they've all been good, so I'l
 Some of my favs you could start with:
 
 - [How a Morning Routine, Human Touch, and Nourishing Relationships Can Radically Lower Your Stress with Dr. Rangan Chatterjee](https://drhyman.com/blog/2019/10/10/bb-ep75/)
-
 - [E70: A Step-by-Step Approach to Personalizing Your Diet with Chris Kresser](https://drhyman.com/blog/2019/09/05/bb-ep70/)
