@@ -1,10 +1,11 @@
 ---
-title: "Starting a Code Club"
-date: 2019-08-19T12:34:20+10:00
+title: Starting a Code Club
+date: 2017-10-17T02:34:20.000Z
 draft: false
 Image: /kids-and-coding/images/dillon-coding.jpg
-category: "Kids and Coding"
+category: Kids and Coding
 categoryurl: /kids-and-coding
+published: true
 ---
 
 One of the goals I had when finished up at work was to start a Code Club at my kids’ school. It took me a little longer than I’d hoped to get started, but now we’re into our 3rd Term. Everyone I talk to about it finds it an interesting topic, especially people with kids, so it’s about time I wrote a little about it.
