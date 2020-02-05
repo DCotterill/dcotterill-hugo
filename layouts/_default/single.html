@@ -32,9 +32,9 @@
         </section>
 
         <div class="blog-post">
-              <img src="{{ .Params.image}}" width="500"/>
+              <img class="blog-image" src="{{ .Params.image}}" width="500"/>
               <h2>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
-              <div>{{.Content}}</div>
+              <div class="blog-content">{{.Content}}</div>
         </div>
 
         <div class="blog-comments">

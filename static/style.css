@@ -29,11 +29,6 @@ body {
     line-height: 1.4;
 }
 
-p {
-    font-family: sans-serif;
-    font-weight: normal;
-}
-
 a {
     color: var(--rich-black);
 }
@@ -200,18 +195,32 @@ img {
 }
 
 .blog-image {
-    grid-column: 1;
+    position:relative;
+    float:right;
+    padding:2rem;
 }
 
-.blog-details {
-    grid-column: 2;
-}
+/*.blog-details {*/
+    /*grid-column: 2;*/
+/*}*/
 
 .blog-post {
-    display:grid;
-    grid-gap:30px;
     margin:40px; 10px;
-    grid-template-columns: 1fr;
+}
+
+
+.blog-content {
+    font-family: Oxygen;
+    font-weight: normal;
+    line-height:25px;
+}
+
+.blog-post img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding:1rem;
 }
 
 .blog-comments {

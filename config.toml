@@ -1,6 +1,6 @@
 baseURL = "https://laughing-liskov-db83d0.netlify.com/"
 languageCode = "en-us"
-summarylength = 40
+summarylength = 25
 disqusShortname = "DCotterill"
 
 [params]
