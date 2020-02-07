@@ -2,6 +2,7 @@ baseURL = "https://laughing-liskov-db83d0.netlify.com/"
 languageCode = "en-us"
 summarylength = 25
 disqusShortname = "www-dcotterill-com"
+googleAnalytics = "UA-75580297-1"
 
 [params]
     title = "Darren Cotterill"
