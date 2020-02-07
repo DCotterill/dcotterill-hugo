@@ -4,6 +4,7 @@ summarylength = 25
 disqusShortname = "www-dcotterill-com"
 googleAnalytics = "UA-75580297-1"
 
+
 [params]
     title = "Darren Cotterill"
     subtitle = "My Current Passions"
