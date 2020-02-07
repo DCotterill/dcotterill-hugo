@@ -5,8 +5,18 @@ draft: false
 Image: /img/books-read.jpg
 category: "Learning and Projects"
 categoryurl: /learning-and-projects
-summary: "Sourced from Goodreads"
+summary: "Here's a list of the books I'm currently reading, and the good ones I've read recently, pulled in from my Goodreads list."
 ---
+
+I really enjoy reading non-fiction books, but like most people, I wish I read more than I do.
+
+Here's a list of the books I've recently read, with my Goodreads ratings and reviews. Some of them have been fantastic, and I recommend them personally
+to friends, so hopefully I can inspire more people to take a look.
+
+Add me as a friend on Goodreads if they're the kind of topics you're interested in too.
+
+
+<br/>
 
 {{<  rawhtml >}}
       <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -14,12 +24,17 @@ summary: "Sourced from Goodreads"
   .gr_custom_container_1573104514 {
     /* customize your Goodreads widget container here*/
     border: 1px solid gray;
-    border-radius:10px;
+    //border-radius:10px;
     padding: 10px 5px 10px 5px;
     background-color: #FFFFFF;
     color: #000000;
-    width: 300px
+    width: 90%;
   }
+
+  .gr_custom_container_1573104514 img{
+    width: 150px;
+  }
+  
   .gr_custom_header_1573104514 {
     /* customize your Goodreads header here*/
     border-bottom: 1px solid gray;
@@ -40,14 +55,18 @@ summary: "Sourced from Goodreads"
   .gr_custom_book_container_1573104514 {
     /* customize your book covers here */
     overflow: hidden;
-    height: 60px;
-      float: left;
-      margin-right: 4px;
-      width: 39px;
+    height: 130px;
+    float: left;
+    margin-right: 4px;
   }
+  
+  .gr_custom_each_container_1573104514 img {
+    width:60px;  
+  }
+  
   .gr_custom_author_1573104514 {
     /* customize your author names here */
-    font-size: 10px;
+    font-size: 15px;
   }
   .gr_custom_tags_1573104514 {
     /* customize your tags here */
@@ -56,8 +75,17 @@ summary: "Sourced from Goodreads"
   }
   .gr_custom_rating_1573104514 {
     /* customize your rating stars here */
-    float: right;
+    float:right;
   }
+  
+
+  .gr_custom_rating_1573104514 img {
+    /* customize your rating stars here */
+    display:inline;
+    padding:1px;
+    width:10px;
+  }
+  
 </style>
 
       <div id="gr_custom_widget_1573104514">
