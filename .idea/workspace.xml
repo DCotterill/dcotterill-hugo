@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44f28612-f5d3-4b39-8737-a31f0c8583f3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/about-me.md" afterPath="$PROJECT_DIR$/content/about-me.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/finance-and-fire/intro-to-financial-independence.md" afterPath="$PROJECT_DIR$/content/finance-and-fire/intro-to-financial-independence.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,16 +44,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/_default/list.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-favourite-podcasts.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my-favourite-podcasts.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/learning-and-projects/my-favourite-podcasts.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="embedded-doc.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/embedded-doc.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="165" lean-forward="false" selection-start-line="9" selection-start-column="165" selection-end-line="9" selection-end-column="165" />
               <folding />
             </state>
           </provider>
@@ -110,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/content/kids-and-coding/starting-a-code-club.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -152,6 +150,7 @@
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/about-me.md" />
         <option value="$PROJECT_DIR$/content/finance-and-fire/intro-to-financial-independence.md" />
+        <option value="$PROJECT_DIR$/content/embedded-doc.md" />
       </list>
     </option>
   </component>
@@ -281,18 +280,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/images" />
+      <recent name="$PROJECT_DIR$/content/finance-and-fire/images" />
+      <recent name="$PROJECT_DIR$/content/finance-and-fire" />
+      <recent name="$PROJECT_DIR$/content/kids-and-coding" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/kids-and-coding/images" />
       <recent name="$PROJECT_DIR$/layouts/_default" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/layouts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/images" />
-      <recent name="$PROJECT_DIR$/content/finance-and-fire/images" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/finance-and-fire" />
-      <recent name="$PROJECT_DIR$/content/kids-and-coding" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,7 +323,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="691" extended-state="6" />
+    <frame x="0" y="23" width="1366" height="691" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -637,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/content/kids-and-coding/starting-a-code-club.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -660,8 +659,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/learning-and-projects/my-favourite-podcasts.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/embedded-doc.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="165" lean-forward="false" selection-start-line="9" selection-start-column="165" selection-end-line="9" selection-end-column="165" />
           <folding />
         </state>
       </provider>
