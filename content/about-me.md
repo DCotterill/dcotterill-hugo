@@ -4,7 +4,7 @@ date: 2019-02-14T02:34:20.000Z
 Image: /images/Cotterill-Family.jpg
 category: Darren Cotterill
 categoryurl: /
-published: false
+published: true
 ---
 
 I live on the Northern Beaches of Sydney with my wife and 2 kids, since 

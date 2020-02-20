@@ -4,7 +4,7 @@ date: 2016-10-12T00:00:00.000Z
 Image: /finance-and-fire/images/dhali-lama-iphone.png
 category: Finance and FIRE
 categoryurl: /finance-and-fire
-published: false
+published: true
 ---
 
 I've always felt a little different to the majority of people in my attitude to money and spending. I've always been a saver from an early age, I'm bewildered when I see people racking up credit card debt and even feel uneasy paying the bank interest on a mortgage. I recently discovered [Mr Money Mustache](http://www.mrmoneymustache.com/), a Financial Freedom blogger who 'retired' from his software job at 31. 
