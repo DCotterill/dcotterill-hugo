@@ -1,7 +1,7 @@
 ---
 title: Test embedded Google Doc
 date: 2020-02-19T02:34:20.000Z
-Image: /images/Cotterill-Family.jpg
+Image: /images/
 category: Darren Cotterill
 categoryurl: /
 published: true
