@@ -30,7 +30,7 @@ body {
 }
 
 a {
-    color: var(--rich-black);
+    color: var(--romansilver);
 }
 
 .btn {
@@ -73,7 +73,7 @@ img {
     text-decoration: none;
     padding: 0rem;
     text-align: center;
-    color: var(--rich-black);
+    color: var(--romansilver);
     text-transform: uppercase;
     font-size: 1.1rem;
 }
@@ -166,6 +166,7 @@ img {
 
 .main-topics a {
     text-decoration: none;
+    color: var(--romansilver);
 }
 
 .main-topic {
@@ -190,6 +191,10 @@ img {
     text-align: left;
 }
 
+.main-topics a {
+    color: var(--romansilver);
+}
+
 .main-topics a:hover {
     color: var(--pacific-blue);
 }
@@ -205,7 +210,7 @@ img {
 /*}*/
 
 .blog-post {
-    margin:40px; 10px;
+    margin:40px;
 }
 
 
