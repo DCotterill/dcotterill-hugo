@@ -1,7 +1,11 @@
 ---
 title: Test embedded Google Doc
 date: 2020-02-19T02:34:20.000Z
+<<<<<<< HEAD
+Image: /images/
+=======
 Image: /images/Cotterill-Family.jp
+>>>>>>> 48d1e9f87f337ac27ab5ceca575a7536f6e40b72
 category: Darren Cotterill
 categoryurl: /
 published: true
