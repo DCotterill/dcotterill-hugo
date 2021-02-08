@@ -7,24 +7,18 @@ categoryurl: /
 published: true
 ---
 
-I live on the Northern Beaches of Sydney with my wife and 2 kids, since 
-moving from England in 2001.
+Hi! I'm Darren, and I live on the Northern Beaches of Sydney, Australia.
 
-After a career of about 20 years in IT related roles (Programmer, Tech Lead, 
-Project Manager, Development Manager), I decided to stop working for a while 
-and semi-retire, mainly while my kids are young and still want to spend time 
-with me.
+I've spent my career in various IT / programming roles, and I still love to tinker with technology, Now I describe myself as 'semi-retired' i.e. I don't have a job, but my wife runs her own business(es).
 
-I still love technology and a little bit of coding when I can, occasionally 
-picking up pet projects. I try to get my kids involved when I can, and I run 
-a Code Club at their primary school (link)
+Although I often get asked 'what do you do all day?', we have 2 school age children, and the days get filled quicker than you'd imagine. I feel like I consume a lot of material and learn a lot, so I've setup this site to try and force myself to share some of the things I learn.
 
-I'm a keen trail runner to keep fit and to have fun. My local run is Manly 
-Dam, or down at Manly Beach, and I've entered loads of trail races, with the 
-toughest challenge the UTA 100km in the Blue Mountains. 
+I still get a lot of satisfaction from programming and building things, but these days I find it difficult to get motivated to do it without a real purpose to the project I'm working on.
 
-At the moment I'm happy not working, but if I find something I'm super 
-passionate about that balances well with my personal time, I might consider 
-it at some point. Maybe when the kids are more independent.
+I'm massively into personal finance, investing, especially the FIRE community. It saddens me when I see the financial illiteracy all around us, and the tragic mistakes people make.
 
-Hope you enjoy reading something here!
+Health and fitness play a big role in my life. My wife runs a Nutrition business, and together we learn a lot about health, food, exercise, etc., and how to be healthier. I'm an avid runner, but less so these days than my previous Ultra-marathon years.
+
+Most of my posts will probably be around these topics, but I occasionally get fascinated by something completely different, and spend my time going deeper than I probably should.
+
+Hope you enjoy some of the content.

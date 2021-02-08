@@ -178,9 +178,6 @@ img {
     box-shadow: var(--shadow);
 }
 
-.main-topic img {
-    height: 200px;
-}
 .main-topic ul {
     list-style: none;
     text-align: left;

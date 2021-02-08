@@ -9,9 +9,6 @@ googleAnalytics = "UA-75580297-1"
     title = "Darren Cotterill"
     subtitle = "My Current Passions"
 
-
-    footer = "DCotterill C2019"
-
 [menu]
 
     [[menu.main]]

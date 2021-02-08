@@ -50,7 +50,7 @@ This is what I wanted:
   
 A secondary requirement was:
   
-  - Have a baackup plan for if I want to invest more money for them (e.g. 
+  - Have a backup plan for if I want to invest more money for them (e.g. 
   they get inheritance money from grandparents).
   
   
